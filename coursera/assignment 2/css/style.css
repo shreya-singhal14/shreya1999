@@ -147,43 +147,43 @@ section>p {
 /* Mobile view */
 
 @media (max-width: 767px) {
-    .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
+    .col-A, .col-B, .col-C, .col-D, .col-E, .col-F, .col-G, .col-H, .col-I, .col-J, .col-K, .col-L {
         float: left;
     }
-    .col-sm-1 {
+    .col-A {
         width: 8.33%;
     }
-    .col-sm-2 {
+    .col-B {
         width: 16.66%;
     }
-    .col-sm-3 {
+    .col-C {
         width: 25%;
     }
-    .col-sm-4 {
+    .col-D {
         width: 33.33%;
     }
-    .col-sm-5 {
+    .col-E{
         width: 41.66%;
     }
-    .col-sm-6 {
+    .col-F {
         width: 50%;
     }
-    .col-sm-7 {
+    .col-G {
         width: 58.33%;
     }
-    .col-sm-8 {
+    .col-H{
         width: 66.66%;
     }
-    .col-sm-9 {
+    .col-I{
         width: 74.99%;
     }
-    .col-sm-10 {
+    .col-J {
         width: 83.33%;
     }
-    .col-sm-11 {
+    .col-K {
         width: 91.66%;
     }
-    .col-sm-12 {
+    .col-L {
         width: 100%;
     }
 }
